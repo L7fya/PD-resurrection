@@ -9,6 +9,8 @@ https://github.com/TkzcM/pandownload-fake-server
 
 百度疑似劫持了Pandownload主页的“本地下载”，请各位不要前去其主页下载，以免被百度钓鱼。
 
+**FUCK BAIDU**
+
 ![](https://i.loli.net/2020/04/18/i2tDIS8z1AyWFGq.png)
 
 ![](https://i.loli.net/2020/04/18/74bvtL9geduFHYT.png)
