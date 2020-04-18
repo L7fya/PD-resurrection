@@ -5,6 +5,14 @@ https://www.hostloc.com/thread-675311-1-1.html
 
 https://github.com/TkzcM/pandownload-fake-server
 
+## 百度又干了啥？
+
+百度疑似劫持了Pandownload主页的“本地下载”，请各位不要前去其主页下载，以免被百度钓鱼。
+
+![quicker_a21521ed-ed28-4e8f-8be2-0f2b1dd9969a.png](https://i.loli.net/2020/04/18/i2tDIS8z1AyWFGq.png)
+
+![quicker_9988d1b1-5447-4ed9-953f-6744e17b2af2.png](https://i.loli.net/2020/04/18/74bvtL9geduFHYT.png)
+
 ## 这个能干啥？
 
 这个可以用来复活你的Pandownload（尽管可能是暂时的）
